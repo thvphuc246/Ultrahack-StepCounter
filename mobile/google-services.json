@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1042082754134",
+    "firebase_url": "https://dualactive-8fecf.firebaseio.com",
+    "project_id": "dualactive-8fecf",
+    "storage_bucket": "dualactive-8fecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042082754134:android:d97804c5cf83162c",
+        "android_client_info": {
+          "package_name": "com.dualactive.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042082754134-nl720am757iaf9ufoaag32uf0006qqeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvVkS1r3nU_8LWoijzROGsG1ZKn1lhx8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
